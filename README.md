@@ -54,7 +54,7 @@ source install/setup.bash
 ros2 run blimp_mpc_fbl_nr run_blimp_sim hardware_<\**ctrl_path_name**\>_circle_horz log1.log
 ```
 ## Citing this Work:
-Please  UPDATE THESE: [cite this paper]() ([arxiv version here]()).
+Please see arxiv preprint [here](https://arxiv.org/abs/2508.14185)  
 
 ## Authors:
 Evanns G. Morales-Cuadrado, Luke Baird, Yorai Wardi, Samuel Coogan
